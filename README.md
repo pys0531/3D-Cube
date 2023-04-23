@@ -1,11 +1,11 @@
 # 3D-Cube
 
 **Requirement**
-
-  opencv-python
-  numpy
-  matplotlib
+ 
+    opencv-python
+    numpy
+    matplotlib
   
 **Run**
 
-  python main.py
+    python main.py
